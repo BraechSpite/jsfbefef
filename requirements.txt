@@ -4,4 +4,5 @@ fastapi
 uvicorn
 python-telegram-bot
 psutil
+tgcrypto
 
